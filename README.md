@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... JavaScript, HTML, CSS (linked with HTML), Lua (Roblox)
 - 💞️ I’m looking to collaborate on ... projects with people who are better than me (thats everyone)
 - 📫 How to reach me ... 
-- Active: https://youtube.com/DRAGEno01
-- Active: https://twitch.tv/DRAGEno01
+- Kind of Active: https://youtube.com/DRAGEno01
+- VERY Active: https://twitch.tv/DRAGEno01 (Daily Streams)
 - Semi-Active: https://twitter.com/DRAGEno01_Live
 - Inactive: https://instagram.com/thereal_drageno01
 
