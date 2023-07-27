@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DRAGEno01
 - 👀 I’m interested in ... well coding.
-- 🌱 I’m currently learning ... JavaScript, HTML, CSS (linked with HTML), Lua (Roblox)
-- 💞️ I’m looking to collaborate on ... projects with people who are better than me (thats everyone)
+- 🌱 I’m currently learning ... JavaScript, HTML, CSS, Lua (Roblox) and Python
+- 💞️ I’m looking to collaborate on ... projects with people who are better than me (about everyone)
 - 📫 How to reach me ... 
 - VERY Active: https://youtube.com/DRAGEno01
 - Inactive: https://twitch.tv/DRAGEno01
