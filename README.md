@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... projects with people who are better than me (about everyone)
 - 📫 How to reach me ... 
 - VERY Active: https://youtube.com/DRAGEno01
-- Inactive: https://twitch.tv/DRAGEno01
+- Active: https://twitch.tv/DRAGEno01
 - Inactive: https://twitter.com/DRAGEno01_Live
 - Inactive: https://instagram.com/thereal_drageno01
 
