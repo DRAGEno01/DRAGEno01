@@ -6,7 +6,7 @@
 - VERY Active: https://youtube.com/DRAGEno01
 - Active: https://twitch.tv/DRAGEno01
 - Inactive: https://twitter.com/DRAGEno01_Live
-- Inactive: https://instagram.com/thereal_drageno01
+- Moderate: https://instagram.com/thereal_drageno01
 
 <!---
 DRAGEno01/DRAGEno01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
