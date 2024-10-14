@@ -5,7 +5,7 @@
 - 📫 How to reach me ... 
 - VERY Active: https://youtube.com/DRAGEno01
 - Active: https://twitch.tv/DRAGEno01
-- Inactive: https://twitter.com/DRAGEno01_Live
+- Inactive: https://twitter.com/DRAGEno01
 - Moderate: https://instagram.com/thereal_drageno01
 
 <!---
