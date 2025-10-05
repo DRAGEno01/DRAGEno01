@@ -5,8 +5,10 @@
 - 📫 How to reach me ... 
 - VERY Active: https://youtube.com/DRAGEno01 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBGdmP6nOliz0svQuR7m0_A?style=social)](https://youtube.com/DRAGEno01)
 - Active: https://twitch.tv/DRAGEno01
-- Inactive: https://twitter.com/DRAGEno01
+- Moderate: https://twitter.com/DRAGEno01
 - Moderate: https://instagram.com/drageno01
+
+I have over 150 repos on GitHub...
 
 <!---
 DRAGEno01/DRAGEno01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
