@@ -1,22 +1,17 @@
-- 👋 Hi, I’m @DRAGEno01
-- 👀 I’m interested in ... well coding.
-- 🌱 I’m currently learning ... JavaScript, HTML, CSS, Lua (Roblox), Python, Java and C#
-- 💞️ I’m looking to collaborate on ... projects with people who are better than me (about everyone)
-- 📫 How to reach me ... 
-- VERY Active: https://youtube.com/DRAGEno01 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBGdmP6nOliz0svQuR7m0_A?style=social)](https://youtube.com/DRAGEno01)
-- Active: https://twitch.tv/DRAGEno01
-- Moderate: https://twitter.com/DRAGEno01
-- Moderate: https://instagram.com/drageno01
 
-I have over 150 repos on GitHub...
+# Welcome
 
-<!---
-DRAGEno01/DRAGEno01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is DRAGEno01, or Dániel. I am Hungarian, but born in Australia.
 
+I am currently studying at Swinburne University of Technology doing Computer Science, majoring in Game Development. I have over 150 GitHub repos... and about all of them are private.
 
-<a href="https://github.com/DRAGEno01" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAGEno01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><br>
-<a href="https://github.com/DRAGEno01" align="center"><img src="https://github-readme-stats.vercel.app/api?username=DRAGEno01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DRAGEno01's GitHub stats"/></a>
-<br>
+I am also a content creator online, so check out my content I guess..
+## Socials & Stats
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBGdmP6nOliz0svQuR7m0_A?style=social)](https://youtube.com/DRAGEno01)
+
+![Twitch Status](https://img.shields.io/twitch/status/DRAGEno01)
+
+![GitHub followers](https://img.shields.io/github/followers/DRAGEno01)
+
 <a href="https://stackoverflow.com/users/25319055/drageno01"><img src="https://stackoverflow.com/users/flair/25319055.png?theme=dark" width="208" height="58" alt="DRAGEno01 on Stack Overflow" title="Profile for DRAGEno01 at Stack Overflow"></a>
