@@ -10,8 +10,8 @@ I am also a content creator online, so check out my content I guess..
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBGdmP6nOliz0svQuR7m0_A?style=social)](https://youtube.com/DRAGEno01)
 
-![Twitch Status](https://img.shields.io/twitch/status/DRAGEno01)
+[![Twitch Status](https://img.shields.io/twitch/status/DRAGEno01)](https://twitch.tv/DRAGEno01)
 
-![GitHub followers](https://img.shields.io/github/followers/DRAGEno01)
+[![GitHub followers](https://img.shields.io/github/followers/DRAGEno01)](https://github.com/DRAGEno01)
 
 <a href="https://stackoverflow.com/users/25319055/drageno01"><img src="https://stackoverflow.com/users/flair/25319055.png?theme=dark" width="208" height="58" alt="DRAGEno01 on Stack Overflow" title="Profile for DRAGEno01 at Stack Overflow"></a>
