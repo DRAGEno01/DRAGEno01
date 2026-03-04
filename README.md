@@ -3,7 +3,7 @@
 
 My name is DRAGEno01, or Dániel. I am Hungarian, but born in Australia.
 
-I am currently studying at Swinburne University of Technology doing Computer Science, majoring in Game Development. I have over 150 GitHub repos... and about all of them are private.
+I am currently studying at Swinburne University of Technology doing Computer Science, majoring in Game Development. I have over 150 GitHub repos... and about all of them are private. I have completed marked VCE in Victoria Australia studying the following subjects: Software Development, Music Repertoire Preformance, Accounting, Hungarian, English.
 
 I am also a content creator online, so check out my content I guess..
 ## Socials & Stats
